@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+      <defs>
+        <linearGradient id="g_villa_mualla_1.svg" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#1E1B4B" />
+          <stop offset="100%" stop-color="#4F46E5" />
+        </linearGradient>
+      </defs>
+      <rect width="800" height="500" fill="url(#g_villa_mualla_1.svg)" />
+      <circle cx="400" cy="200" r="65" fill="rgba(255,255,255,0.12)" />
+      <polygon points="400,150 445,195 355,195" fill="#C8A96B" />
+      <rect x="370" y="195" width="60" height="50" fill="#FFFFFF" rx="3" opacity="0.9" />
+      <text x="400" y="320" text-anchor="middle" font-family="'Cairo', sans-serif" font-weight="bold" font-size="24" fill="#FFFFFF">فيلا عصرية دورين - المعلا عدن</text>
+      <text x="400" y="360" text-anchor="middle" font-family="'Cairo', sans-serif" font-size="16" fill="#CBD5E1">عقار اليمن • بيتك يبدأ من هنا</text>
+    </svg>
